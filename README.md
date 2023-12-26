@@ -1,4 +1,4 @@
-# Exercises for Deep Learning Fundamentals (cd13378)
+# Exercises for Deep Learning Fundamentals (cd13307)
 
 This repository contains the Jupyter notebook exercises for the Udacity course Deep Learning Fundamentals (cd13307).
 
